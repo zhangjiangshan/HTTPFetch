@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  HTTPFetch
+//
+//  Created by zjs on 14/8/11.
+//  Copyright (c) 2014年 zjs. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface AppDelegate : NSObject <NSApplicationDelegate>
+
+@property (assign) IBOutlet NSWindow *window;
+
+@end
